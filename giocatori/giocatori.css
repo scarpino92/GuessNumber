@@ -1,0 +1,22 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container-fluid{
+    width: fit-content;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background-repeat: no-repeat;
+    padding:3%;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+
+input{
+    margin: 5px;
+    border-radius: 5px;
+}
+
+label{
+    font-size: 18px;
+}
